@@ -15,7 +15,7 @@ Animated SVG Loading | Cathrine Bruvold \| [GitHub](https://github.com/cathrineb
 1. Open your canvas app in **Power Apps**
 1. Copy the contents of the **[YAML-file](./source/animated-svg-loading.pa.yaml)** 
 1. Right click on the screen where you want to add the snippet and select "Paste"
-    ![View of the paste code button](./assets/paste.png)
+    ![View of the paste button](./assets/paste.png)
 1. Edit the code on the Image property of the SVG to change size, colors, duration etc. 
 
 ## 🎨 Customize the SVG Code
